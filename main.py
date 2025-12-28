@@ -30,7 +30,7 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
-INTERVAL = 1
+INTERVAL = 60
 TIMEOUT = 10
 MAX_COUNT = 5000
 
